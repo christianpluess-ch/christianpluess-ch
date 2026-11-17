@@ -19,3 +19,6 @@ Ich verbinde Logistikprozesse mit IT-Systemen und digitalisiere Abläufe vom Lag
 
 ## Tools & Technologien
 HTML · CSS · JavaScript · Python · Flask · Excel · KI-Tools (Claude, ChatGPT)
+
+## Kontakt
+💼 [LinkedIn](https://www.linkedin.com/in/christian-pl%C3%BCss-68bb2318b/)
